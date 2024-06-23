@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<webseiten>
+    <seite>
+        <titel>Google</titel>
+        <url>http://www.google.de</url>
+        <bemerkung>Suchmaschine von Google</bemerkung>
+    </seite>
+    <seite>
+        <titel>Bing</titel>
+        <url>http://www.bing.de</url>
+        <bemerkung>Suchmaschine von Microsoft</bemerkung>
+    </seite>
+</webseiten>
